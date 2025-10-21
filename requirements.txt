@@ -9,7 +9,7 @@ huggingface-hub==0.17.0
 python-docx==0.8.11
 faiss-cpu==1.12.0
 numpy==1.26.4
-torch==2.4.1
+torch==2.5.0
 transformers==4.44.2
 requests==2.31.0
 urllib3==1.26.18
