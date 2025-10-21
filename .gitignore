@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Vector database
+knowledge_base/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Data files (optional - you might want to track small text files)
+data/*.pdf
+data/*.docx
+!data/ipc/
+!data/schemes/
