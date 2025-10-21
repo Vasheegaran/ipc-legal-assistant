@@ -7,8 +7,8 @@ python-dotenv==1.0.0
 groq==0.32.0
 huggingface-hub==0.17.0
 python-docx==0.8.11
-faiss-cpu==1.12.0         
-numpy==1.24.4
+faiss-cpu==1.12.0
+numpy==1.26.4
 torch==2.0.1
 transformers==4.35.2
 requests==2.31.0
